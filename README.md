@@ -12,7 +12,7 @@ El nombre del lenguaje proviene de la afición de su creador por los humoristas 
 - No usa ";"  
 - Usa identaciones en su sintaxis
 ## Indice
-1. ["Hola Mundo", Variables y Operadores Matemáticos.](python_1.py)
-1. [String, Concatenaciones y Métodos de String.](python_2.py)
-1. [Listas.](python_3.py)
-1. [Tuplas y Diccionarios.](python_4.py)
+1. ["Hola Mundo", Variables y Operadores Matemáticos.](python_01.py)
+1. [String, Concatenaciones y Métodos de String.](python_02.py)
+1. [Listas.](python_03.py)
+1. [Tuplas y Diccionarios.](python_04.py)
