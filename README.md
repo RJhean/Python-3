@@ -32,3 +32,6 @@ El nombre del lenguaje proviene de la afición de su creador por los humoristas 
 17. [Módulos. ](modulos/main.py)
 18. [Librerias. ](librerias.py)
 19. [Excepciones. ](excepciones.py)
+19. [Clases y Métodos. ](clases.py)
+19. [Métodos Privados. ](metodos_privados.py)
+19. [Variables de Clase. ](variables_clase.py)
